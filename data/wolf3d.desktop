@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Name=Wolfenstien 3D
+Exec=/opt/usr/bin/wolf3d.sh
+Icon=wolf3d
+X-HildonDesk-ShowInToolbar=true
+X-Window-Icon=wolf3d
+X-Window-Icon-Dimmed=wolf3d
+X-Osso-Type=application/x-executable
+#X-Osso-Service=com.nokia.wolf3d

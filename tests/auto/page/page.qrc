@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>content/demo/vswap.wl1</file>
+        <file>content/full/vswap.wl6</file>
+        <file>content/spear/vswap.sod</file>
+    </qresource>
+</RCC>

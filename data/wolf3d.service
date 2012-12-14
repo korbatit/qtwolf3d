@@ -1,0 +1,3 @@
+[D-BUS Service]
+Name=com.nokia.wolf3d
+Exec=/opt/usr/bin/wolf3d.sh
